@@ -1,0 +1,31 @@
+.tbl {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    margin-top: 70px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+  }
+  
+  .trr td, .trr th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  .trr th{
+    background-color: #dddddd;
+}
+a{
+    color:blue;
+}
+.btnn{
+    background-color: gray;
+    color: white;
+    font-size: 15px !important;
+    font-family: sans-serif;
+    padding: 10px;
+    margin: 50px;
+    border-radius: 50px;
+    border: 0;
+}
