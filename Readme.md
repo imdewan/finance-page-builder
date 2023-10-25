@@ -115,4 +115,4 @@ The server folder contains the Django code for the backend of the application.
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details. Feel free to modify and use this project for your own purposes.
 
-Thank you for using the Drag and Drop Web Page Maker! If you have any questions or run into issues, please don't hesitate to [contact us](mailto:your-email@example.com).
+Thank you for using the Finance Web Page Maker! Made with ❤️ by [Dewan Shakil (MrDSA04)](https://linktr.ee/mrdsa04).
